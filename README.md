@@ -21,6 +21,7 @@ Water Conservation: Intelligent sensors and automated controls help optimize wat
 <li>5v Relay</li>
 <li>Submersive motor</li>
 <li>Humidity sensor</li>
+<li>9v External Supply</li>
 </ol>
 </div>
 
