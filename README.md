@@ -41,8 +41,10 @@ Analog Sensor: If you're using an analog sensor instead of a digital one, you wo
 </li>
 </p>
 </div>
-
+<div class="circuit">
+<h2>Circuit Diagram</h2>
 <img src="How to make plant watering system.jpg" height="500px">
+</div>
 
 
 
